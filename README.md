@@ -20,7 +20,7 @@ A shopping app built in React Native with Redux, DummyJSON API, React Navigation
 
 ## Contributing;
 
-- If you have problems please leave an issue from [here](https://github.com/eeguney/my-portfolio-site/issues)
+- If you have problems please leave an issue from [here](https://github.com/eeguney/react-native-shopping-app/issues)
 - Consider forking the project and submitting new pull requests. I am much likely control [my github account](https://github.com/eeguney/)
 
 # How to build/run the projects
