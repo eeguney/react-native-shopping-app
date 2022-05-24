@@ -1,5 +1,5 @@
 # React Native Shopping Mobile App
-A shopping app built in React Native with Redux, fetching DummyJSON API, React Navigation and TailwindCSS.
+A shopping app built in React Native with Redux, fetching DummyJSON API, React Navigation and TailwindCSS. (It's also the first mobile app I've written. 😎)
 
 <img align="center" src="assets/DEMO.gif" width="250">
 
