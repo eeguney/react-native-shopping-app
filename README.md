@@ -2,6 +2,7 @@
 A shopping app built in React Native with Redux, fetching DummyJSON API, React Navigation and TailwindCSS.
 
 <img src="assets/DEMO.gif" width="250">
+<img src="assets/DEMO.gif" width="250">
 
 ## Built with;
 
